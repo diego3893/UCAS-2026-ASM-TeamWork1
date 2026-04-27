@@ -6,7 +6,7 @@
 
 .section .text
 .global max_cnt
-.type max_cnt, @function
+    .type max_cnt, @function
 
 max_cnt:
     pushl %ebp
