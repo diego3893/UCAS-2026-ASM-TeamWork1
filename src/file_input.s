@@ -17,7 +17,7 @@ file_input:
     pushl %ebp
     movl %esp, %ebp
 
-    movl $5, %eax           # 开文件
+    movl $5, %eax # 开文件
     movl $filename, %ebx
     movl $0, %ecx
     movl $0, %edx
