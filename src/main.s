@@ -2,6 +2,9 @@
 
 .global _start
 _start:
-    # code here
+    call file_input
+    call split
+    call max_cnt
+    call output
 
     call as_exit
