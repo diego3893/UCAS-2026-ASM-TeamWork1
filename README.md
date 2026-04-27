@@ -12,8 +12,8 @@
   - [x] 程序入口（主函数调用）
   - [x] 程序退出`as_exit`函数
 - [x] 文本读入`file_input`函数
-- [ ] 单词分割`split`函数
-- [ ] 单词保存、统计`word_counter`函数
+- [x] 单词分割`split`函数
+- [x] 单词保存、统计`word_counter`函数
 - [x] 取最大值`max_cnt`函数
 - [x] 输出`res_output`函数（只输出出现最多的单词和次数）
 - [x] 附文件说明分组情况（该文件加进.gitignore）
